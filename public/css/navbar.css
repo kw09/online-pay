@@ -1,0 +1,25 @@
+body{
+    background-color: #A8E7E9;
+    /* color: #ced2dc; */
+}
+/* A8E7E9 40798C*/
+
+nav{
+    font-size: 20px;
+}
+
+.btn-outline-primary:hover{
+    background-color: #345B63;
+    border-color: white;
+    color: white;
+}
+
+.btn-outline-primary{
+    border-color: #345B63;
+    color: #345B63;
+    font-weight: bolder;
+}
+
+.btn{
+    border-radius: 6px;
+}
